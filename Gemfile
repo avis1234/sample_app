@@ -39,6 +39,7 @@ group :test do
   gem 'turn', '0.8.2', :require => false
   gem 'sqlite3'
   gem 'rspec'
+  gem 'webrat'
 end
 
 group :development do
